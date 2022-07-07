@@ -1,2 +1,2 @@
-# Exerc-cios-ebac
+# Exercícios-ebac
 Exercícios EBAC
